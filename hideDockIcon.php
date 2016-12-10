@@ -1,6 +1,6 @@
 <?php
 /**
- * @author           Suat Secmen (http://suat.be)
+ * @author           Suat Secmen (http://su.at)
  * @copyright        2015-2016 Suat Secmen
  * @license          WTFPL <http://www.wtfpl.net/>
  * @link             https://github.com/FirePanther/MacOS-Hide-Dock-Icon
