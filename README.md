@@ -39,16 +39,16 @@ and reshow the Dock icon.
 
 For apps which are running all the time, maybe even in the background and you
 never click on their Dock icon (e.g. the official Twitter app or Tweetbot), or
-apps which are running for a short time just for a cron job (e.g. if you use
+apps which are running for a short time just for a cron job (*e.g. if you use
 my [Apple Reminders to Todoist](https://github.com/FirePanther/Apple-Reminders-to-Todoist)
 script which is running an Apple script to read out reminders from the native
 Reminders app just to transfer them to Todoist).  
 To have a nice, empty, clean Dock you can just hide all the apps whose app icons
 you never click on.
 
-![Preview: Some hidden Dock icons](http://i.dv.tl/Screenshot_2016-11-21_at_16.20.21.jpg)
+_*Edit: Don't try to hide the Reminders.app or any other native app from the Dock anymore (or at least backup it first). The App will be hidden but the signature can break some functionality (after the last MacOS Update I can't access my Reminders from AppleScript anymore, I had to recover my Reminders.app)._
 
-_Edit: Don't try to hide the Reminders.app or any other native app from the Dock anymore (or at least backup it first). The App will be hidden but the signature can break some functionality (after the last MacOS Update I can't access my Reminders from AppleScript anymore, I had to recover my Reminders.app)._
+![Preview: Some hidden Dock icons](http://i.dv.tl/Screenshot_2016-11-21_at_16.20.21.jpg)
 
 ## License
 
