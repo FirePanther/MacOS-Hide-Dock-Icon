@@ -48,6 +48,8 @@ you never click on.
 
 ![Preview: Some hidden Dock icons](http://i.dv.tl/Screenshot_2016-11-21_at_16.20.21.jpg)
 
+_Edit: Don't try to hide the Reminders.app or any other native app from the Dock anymore (or at least backup it first). The App will be hidden but the signature can break some functionality (after the last MacOS Update I can't access my Reminders from AppleScript anymore, I had to recover my Reminders.app)._
+
 ## License
 
 *(but if you want you can add my name or repo URL in your script :D)*
